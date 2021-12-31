@@ -45,8 +45,8 @@
 ## Getting Started
 
 ### Prerequisites
-    You have to get Node.js Installed on your PC
-    You have to get a prior React & Next.js knowlegde
+    You have to get Node.js installed on your PC
+    You have to get a prior React & Next.js knowledge
 ### Installation
 
 1. Clone the repo
